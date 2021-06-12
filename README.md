@@ -18,3 +18,5 @@ Example :
 
 All exception types are subclasses of the built-in class **Throwable**. **Exception** class is used for exceptional conditions that user programs should catch. This is also the
 class that you will subclass to create your own custom exception types. RuntimeException is a subclass of Exception, exceptions of this type are automatically defined for the programs that you write and include things such as division by zero and invalid array indexing.
+
+![image](https://user-images.githubusercontent.com/85785848/121773526-1e60e200-cb9a-11eb-9ae5-1fc34f3c2a60.png)
