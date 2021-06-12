@@ -13,3 +13,8 @@ An excpetion is an abnormal condition that arises in a code sequence at runtime 
 Example : 
 
 ![image](https://user-images.githubusercontent.com/85785848/121773297-aba33700-cb98-11eb-865d-5d657fabbd72.png)
+
+**Exception Type**
+
+All exception types are subclasses of the built-in class **Throwable**. **Exception** class is used for exceptional conditions that user programs should catch. This is also the
+class that you will subclass to create your own custom exception types. RuntimeException is a subclass of Exception, exceptions of this type are automatically defined for the programs that you write and include things such as division by zero and invalid array indexing.
